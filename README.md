@@ -1,5 +1,5 @@
 # Live App
-Checkout the app live at http://ec2-54-189-163-21.us-west-2.compute.amazonaws.com:8080/ (dockerized version runs here on ec2)
+Checkout the app live at http://ec2-35-86-147-12.us-west-2.compute.amazonaws.com:8080/ (dockerized version runs here on ec2)
 
 # Bootstrap
 
